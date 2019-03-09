@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 08 01:29:56 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-efc2-8b74-00000ed95f88 
+on database directory memory:/home/tsumit23/Documents/workspace-spring-tool-suite-4-4.0.1.RELEASE/BookStore/testdb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/tsumit23/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-8u181-b13-0ubuntu0.18.04.1-b13
+user.dir=/home/tsumit23/Documents/workspace-spring-tool-suite-4-4.0.1.RELEASE/BookStore
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-38-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
